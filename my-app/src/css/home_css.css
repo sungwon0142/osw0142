@@ -1,0 +1,22 @@
+.panel-container{
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+.panel_item{
+    border-radius:15px ;
+    /*border: 1px solid #666666 ;*/
+    align-items: center;
+    display: block;
+    justify-content: center;
+    background-color: #e0f7fa;
+    box-shadow: 5px 5px 5px gray;
+    height: 400px;
+    width: 800px;
+}
